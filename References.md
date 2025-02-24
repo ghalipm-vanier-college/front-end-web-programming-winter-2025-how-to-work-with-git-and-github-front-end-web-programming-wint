@@ -1,0 +1,6 @@
+[HTML Tutorials - Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTML)  
+[HTML Tutorials - W3Schools ](https://www.w3schools.com/html/html_intro.asp)  
+[CSS Tutorials - Mozilla](https://developer.mozilla.org/en-US/docs/Web/CSS)  
+[CSS Tutorials - W3Schools](https://www.w3schools.com/css/)  
+[JavaScript Tutorials](https://javascript.info/)  
+[FreeCodeCamp Exercises](https://www.freecodecamp.org/)  
